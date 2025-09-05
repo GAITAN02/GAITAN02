@@ -1,16 +1,25 @@
-## Hi there 👋
+## 💜 Olá, meu nome é {Angel Gaitan}!
 
-<!--
-**GAITAN02/GAITAN02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ola, meu nome é <b>Angel</b>, sou um jovem de 16 anos, sou <b> colombiano (CO) </b>, moro em Americana,sp.
+Faço um curso de multimidia
+no senac, o qual é em parceria com a escola Heitor Penteado, trabalho tambem no china in box,
+e ja esso é tudo.
 
-Here are some ideas to get you started:
+🔭 Por enquando não tenho nenhum projeto em mente.
+ 
+💬 Pode me mandar mensagem ao: Instagram (Gaitnst); ou Telefone (19) 982004388
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Skills
+
+<code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
+<code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
+<code><img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+<code><img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+<code><img src="https://skillicons.dev/icons?i=instagram" height="50" alt="instagram logo" />
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulowh&show_icons=true&theme=nightowl)</code>
