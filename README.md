@@ -22,4 +22,4 @@ e ja esso é tudo.
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulowh&show_icons=true&theme=nightowl)</code>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaitan&show_icons=true&theme=dark)</code>
